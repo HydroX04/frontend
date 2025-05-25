@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frontend/static/css/main.2ffbac2b.css",
-    "main.js": "/frontend/static/js/main.5a586889.js",
+    "main.js": "/frontend/static/js/main.36703966.js",
     "static/js/453.c86c05e1.chunk.js": "/frontend/static/js/453.c86c05e1.chunk.js",
     "static/media/salted caramel frappe.png": "/frontend/static/media/salted caramel frappe.817d6256fe1d24ec9973.png",
     "static/media/java chips frappe.png": "/frontend/static/media/java chips frappe.05fef9b7af7ec9c9634d.png",
@@ -40,11 +40,11 @@
     "static/media/bell.svg": "/frontend/static/media/bell.6657646fcc131f5047375e9f59bb52b2.svg",
     "static/media/arrow.svg": "/frontend/static/media/arrow.f0d4c8c9031a2d4af186ce6816e1cc15.svg",
     "main.2ffbac2b.css.map": "/frontend/static/css/main.2ffbac2b.css.map",
-    "main.5a586889.js.map": "/frontend/static/js/main.5a586889.js.map",
+    "main.36703966.js.map": "/frontend/static/js/main.36703966.js.map",
     "453.c86c05e1.chunk.js.map": "/frontend/static/js/453.c86c05e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ffbac2b.css",
-    "static/js/main.5a586889.js"
+    "static/js/main.36703966.js"
   ]
 }
